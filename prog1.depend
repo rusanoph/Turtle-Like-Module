@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1613463779 source:c:\users\xiaomi\desktop\z\prog\c\l-system\prog1\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1618961228 source:c:\users\xiaomi\desktop\z\prog\c\c_code_be\c_code\l-system\prog1\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"L_sys.h"
+
+1618959164 c:\users\xiaomi\desktop\z\prog\c\c_code_be\c_code\l-system\prog1\l_sys.h
+	<stdlib.h>
+
+1619033209 source:c:\users\xiaomi\desktop\z\prog\c\l-system\turtlelikemodule\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"L_sys.h"
+
+1619001839 c:\users\xiaomi\desktop\z\prog\c\l-system\turtlelikemodule\l_sys.h
+	<stdlib.h>
+
